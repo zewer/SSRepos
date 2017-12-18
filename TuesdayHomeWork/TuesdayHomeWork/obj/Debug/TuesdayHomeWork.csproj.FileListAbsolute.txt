@@ -1,0 +1,6 @@
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\bin\Debug\TuesdayHomeWork.exe.config
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\bin\Debug\TuesdayHomeWork.exe
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\bin\Debug\TuesdayHomeWork.pdb
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\obj\Debug\TuesdayHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\obj\Debug\TuesdayHomeWork.exe
+C:\Users\Zewer\Desktop\SoftServe\C# курс\C# HomeWork\TuesdayHomeWork\TuesdayHomeWork\obj\Debug\TuesdayHomeWork.pdb
